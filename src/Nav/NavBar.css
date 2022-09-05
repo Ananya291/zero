@@ -1,0 +1,29 @@
+.navMain{
+    display: flex;
+}
+
+.navLeft{
+    display: flex;
+    flex: 70%;
+}
+
+.navText{
+    margin-left: 70%;
+    font-size: 20px;
+}
+
+.navRight{
+   display: flex;
+   flex: 30%;
+   margin-left: 10%;
+}
+
+.signin{
+    margin: 0px 20px 0px 20px;
+    font-size: 12px;
+    padding-top: 20px;
+}
+
+hr{
+   opacity: 0.2;
+}
